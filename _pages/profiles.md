@@ -18,8 +18,8 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
   - align: left
-    image: Captura de tela 2023-06-08 205251.png
-    content: about_einstein.md
+    image: darue.png
+    content: darue.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
