@@ -3,7 +3,7 @@ layout: about
 title: 
 permalink: /
 subtitle: Human Centered Systems Laboratory
-headr_image: prof_pic.jpg
+header_image: prof_pic.jpg
 
 profile:
   align: top
