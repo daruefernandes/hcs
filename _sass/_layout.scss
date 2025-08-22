@@ -38,17 +38,6 @@ body.sticky-bottom-footer {
   }
 }
 
-.banner {
-  width: 100%; /* Garante que o contêiner ocupe toda a largura */
-  overflow: hidden; /* Evita que a imagem transborde do contêiner */
-}
-
-.banner img {
-  width: 100%; /* Garante que a imagem se estenda por toda a largura do contêiner */
-  height: auto; /* Mantém a proporção da imagem */
-  display: block; /* Remove espaços extras indesejados abaixo da imagem */
-}
-
 // TODO: redefine content layout.
 
 /******************************************************************************
